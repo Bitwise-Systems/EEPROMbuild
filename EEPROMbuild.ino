@@ -27,7 +27,7 @@ char *EEPROMtext[] = {
     "Battery reversed",                               // 17 ReversedBattery
     "Unknown battery type",                           // 18 UnknownBattery
     "Alkaline battery",                               // 19 Alkaline
-    "Lithium battery"                                 // 20 Lithium
+    "Lithium battery",                                // 20 Lithium
      NULL
 };
 
