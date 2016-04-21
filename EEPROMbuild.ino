@@ -28,6 +28,7 @@ char *EEPROMtext[] = {
     "Unknown battery type",                           // 18 UnknownBattery
     "Alkaline battery",                               // 19 Alkaline
     "Lithium battery",                                // 20 Lithium
+    "Accepting substantial charge",                   // 21 Precharge rate > C/10
      NULL
 };
 
